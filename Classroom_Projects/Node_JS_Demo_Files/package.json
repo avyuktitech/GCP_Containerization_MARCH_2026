@@ -1,0 +1,12 @@
+{
+  "name": "monolithic-node-app",
+  "version": "1.0.0",
+  "description": "Simple monolithic Node.js app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
